@@ -1,2 +1,2 @@
 ^{:css-dirs ["resources/public/css"]}
-{:main hello.cruel-world}
+{:main pbpsanbox.core}

@@ -1,4 +1,4 @@
-(ns hello.cruel-world
+(ns pbpsandbox.core
   (:require [reagent.core :as r]))
 
 (defn what-kind? []
