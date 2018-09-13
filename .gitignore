@@ -15,3 +15,4 @@ pom.xml.asc
 .firebase
 .firebaserc
 .rebel*
+fbconfig.cljs
